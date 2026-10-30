@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "project": "promptedsite-template-15",
+  "release": "f871c72b128b9177",
+  "prefix": "templates/promptedsite-template-15/releases/f871c72b128b9177",
+  "baseUrl": "https://cdn.promptedsite.com/templates/promptedsite-template-15/releases/f871c72b128b9177",
+  "totalBytes": 16507305,
+  "files": {
+    "fonts/00000000000000007735c074.woff2": {
+      "bytes": 20040,
+      "sha256": "6f09a84b958ecf8391e1f9808f04b7d06f63ec138be89a640f89732def423030",
+      "contentType": "font/woff2"
+    },
+    "fonts/00000000000000007735c082.woff2": {
+      "bytes": 19672,
+      "sha256": "0602450536949fa043762d6d5a098f53a6f15346539c931bba06e4d9636ebca1",
+      "contentType": "font/woff2"
+    },
+    "fonts/00000000000000007735ce7b.woff2": {
+      "bytes": 34708,
+      "sha256": "038a35b0025c8c0066b09fb41265afdf98f29a722075b4ee75fa993f184570ef",
+      "contentType": "font/woff2"
+    },
+    "images/content/664zaXjoQbPGKTY__frgola_cornetto_result.webp": {
+      "bytes": 117260,
+      "sha256": "d95ca4e84256ab2737d39cf11d5d9869b58158e9ea28fc12a5f139959e8e8a3a",
+      "contentType": "image/webp"
+    },
+    "images/content/GJcS5EfIPn_hXgmJ_piantaagrumi_result.webp": {
+      "bytes": 150559,
+      "sha256": "c95ef7b56552ebde8d2761f60d1b358837ed1eb290048e739dbb37b4d351ad10",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvg-QeQX7-eWdIz_arancia_result-1.webp": {
+      "bytes": 154736,
+      "sha256": "4da41979a8e220424fec212d8d07054c7efbb2d5ba18a5991df49e387feb9620",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvgwQeQX7-eWdIy_arancia_result.webp": {
+      "bytes": 16262,
+      "sha256": "90e776a31e88e4bf23699b7d2268d25eea6ec7832eea0c37dec78b8a219218ce",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhTgeQX7-eWdI0_caponata_result.webp": {
+      "bytes": 29440,
+      "sha256": "3907229fb28f6890977aa194b2864d9a2870cfa6b47e12b1e930a879c756922c",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhdAeQX7-eWdI2_caponata_result-1.webp": {
+      "bytes": 144054,
+      "sha256": "1017ef793ea06411ef5f84462587b57a685822a0b1badcc5e8dedeedd77d6273",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhdQeQX7-eWdI3_cipolla_result.webp": {
+      "bytes": 24775,
+      "sha256": "85d81295dd2fbbcc0f47a11f66408d4a54dc56e6af72fb3af658b6c33c05cf36",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhdgeQX7-eWdI4_cipolla-in-agrodolce_result.webp": {
+      "bytes": 138992,
+      "sha256": "7a5763acf8a7fc762b85145f9e173629e174a3c4e26000bbb5de9fcd59623205",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhdweQX7-eWdI5_fragola_result.webp": {
+      "bytes": 170434,
+      "sha256": "3c8c30480fe161abcc23b632fa26d166575daaf5bd06d1c1244e22fd8bf4737c",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvheAeQX7-eWdI6_fragole_result.webp": {
+      "bytes": 19229,
+      "sha256": "63acd354e6fd3ecc5277c99dad22b3063040befd7edee8d799b2d15695c492fd",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvheQeQX7-eWdI7_gelsi_result-1.webp": {
+      "bytes": 157222,
+      "sha256": "848815df77a6374e764c8ccccbfbcdddd2cb99e5985840ead4f8651722d88bca",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhegeQX7-eWdI8_gelsi_result.webp": {
+      "bytes": 10986,
+      "sha256": "95b2efdc6cf5e591ae5cc2fb7f39ce86977cbfcaf99812bd19e63505dfd19eb1",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvheweQX7-eWdI9_mandorla_result-1.webp": {
+      "bytes": 145896,
+      "sha256": "51668d616eca4b9358ef37a3327b79fbd73d45ab372c957a82dbc40024934122",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhfAeQX7-eWdI-_mandorla_result.webp": {
+      "bytes": 6534,
+      "sha256": "b09a1f01b2b507e273b9f0c7c3531eeb1589a4bda739f2e8989e3cef7608f779",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhfQeQX7-eWdI__pesto-rosso_result.webp": {
+      "bytes": 31390,
+      "sha256": "98b172cd8f543e9c209558371382204b3ebdbf08eaca6bf0ced4d089cd32d567",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhfgeQX7-eWdJA_pesto-rosso_result-1.webp": {
+      "bytes": 133944,
+      "sha256": "278f309f5a1b5da4faac2c59af8a98b8fe7f2e300a15ce434869c53a63ef854f",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhfweQX7-eWdJB_pesto_result.webp": {
+      "bytes": 8609,
+      "sha256": "c9f5f8dd32235b70ac6f0f0c244037dab66d49ee6da2500fd2b94bce0156de1b",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhgAeQX7-eWdJC_pesto_result-1.webp": {
+      "bytes": 113134,
+      "sha256": "fea6de7a88b868f83d0654fb8f26659e69dfb7243fdad6e04a13bc123073e4dc",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhgQeQX7-eWdJD_pera_result.webp": {
+      "bytes": 10752,
+      "sha256": "a1dc726fd117fbf6e8b18cfefff393988b638fba254f928806d2a07746937237",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhggeQX7-eWdJE_pera_result-1.webp": {
+      "bytes": 155758,
+      "sha256": "047a1ff2cde93ed458a70de9c63732f1f9e91aa1184c2ec077e0857a01afa4cf",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhgweQX7-eWdJF_Pesto-salato_result.webp": {
+      "bytes": 20045,
+      "sha256": "ec548fba5d78d22f760de4489567cefdc582205aa8cb115e90f87cf18e2ce0ce",
+      "contentType": "image/webp"
+    },
+    "images/content/ahvhhAeQX7-eWdJG_pistacchio_result.webp": {
+      "bytes": 146316,
+      "sha256": "ac128bf21765e506838697900106f0efcecd446749c594aa5571d1b68ab91bce",
+      "contentType": "image/webp"
+    },
+    "images/content/aiF5XQeQX7-eWvFc_foto_result.webp": {
+      "bytes": 689108,
+      "sha256": "bc676738213ae58eff91da014405f50beb168fd417d577970d48b2b1e08ba31f",
+      "contentType": "image/webp"
+    },
+    "images/content/aiHjEweQX7-eWwIw_Frame42_result.webp": {
+      "bytes": 219773,
+      "sha256": "06e791a9410f6e02348042bbb78ca692d9febf86774b9e13818aa4b0046c8b73",
+      "contentType": "image/webp"
+    },
+    "images/content/aiHkXgeQX7-eWwI5_gelsineri_result.webp": {
+      "bytes": 169686,
+      "sha256": "d91ca2419dfb8004a17a8153732a57b068233e9d348644d06444c391ca052251",
+      "contentType": "image/webp"
+    },
+    "images/content/aiHltAeQX7-eWwJL_fragole_result.webp": {
+      "bytes": 178863,
+      "sha256": "b7af2565de41e934af783bce6df11e75458c65ec7a34a32dbd747fece10dd6d8",
+      "contentType": "image/webp"
+    },
+    "images/content/aiHmlweQX7-eWwJR_pera_result.webp": {
+      "bytes": 178934,
+      "sha256": "663e3cbf5b005f77fd0098a9dea93108b2941f9641801c0e8d837715d64568a5",
+      "contentType": "image/webp"
+    },
+    "images/content/aiHvzQeQX7-eWwLN_picnic2_result.webp": {
+      "bytes": 331528,
+      "sha256": "81fa4e25ad4b42b057580b32df086c63ff11f52a7dd9c5d8ff3e27bf23c79df5",
+      "contentType": "image/webp"
+    },
+    "images/content/aiPUVweQX7-eW77T_fondo_salati_result.webp": {
+      "bytes": 62929,
+      "sha256": "6cf87060258bef61fb89645208454f8fa79fbd730d95fb67592b7491206c293c",
+      "contentType": "image/webp"
+    },
+    "images/content/aiPUYAeQX7-eW77U_primopianosalati_result.webp": {
+      "bytes": 166870,
+      "sha256": "bc9bfbb3bac51fe812b94940b0ecfbe828f79d26a5b318e20e21f24fb990f6d5",
+      "contentType": "image/webp"
+    },
+    "images/content/aiRE7geQX7-eW8Ku_smaraldo_result.webp": {
+      "bytes": 178109,
+      "sha256": "a803039a505b291144e1e6df8fa25bad748b7e08f6ed66086b0cb70424a3d260",
+      "contentType": "image/webp"
+    },
+    "images/content/aiRFeQeQX7-eW8Kx_cipollsa_result.webp": {
+      "bytes": 186961,
+      "sha256": "7f98cd57444aaf5c8a6c08a6b802a9490b103190be51d1d268288d604bfde047",
+      "contentType": "image/webp"
+    },
+    "images/content/aiRGHgeQX7-eW8K0_sinfonia_result.webp": {
+      "bytes": 184677,
+      "sha256": "ad7d6dcead5fd87ae6ddc668e86b7a3d38423a9da99a8994e7b7b5dc21c76aff",
+      "contentType": "image/webp"
+    },
+    "images/content/aiRHEgeQX7-eW8K6_prestorosso_result.webp": {
+      "bytes": 173767,
+      "sha256": "1b7585e45720a06687b1d080a0abe392d9f09ed43d2ce1512ba5b8d4b80562a1",
+      "contentType": "image/webp"
+    },
+    "images/content/aiSJmgeQX7-eW8Qx_monodose.webp": {
+      "bytes": 189570,
+      "sha256": "0865f63d228b1ac15548dab9a5b7790a66e902722db154c033925452516cdb22",
+      "contentType": "image/webp"
+    },
+    "images/content/aiUYyAeQX7-eW8UX_immaginefinale_result.webp": {
+      "bytes": 529018,
+      "sha256": "11824dc6cee722454009af4dfc826012c5ea6a07d1952a9493a5f2337b5d4303",
+      "contentType": "image/webp"
+    },
+    "images/content/aibOSgeQX7-eW92-_OG_result.webp": {
+      "bytes": 508482,
+      "sha256": "d311dbc83a7cfe7be9f2c446f7cd0d39018a99b1da2f898e1266c201625f6960",
+      "contentType": "image/webp"
+    },
+    "images/content/aibOxAeQX7-eW93S_OG.jpg": {
+      "bytes": 750849,
+      "sha256": "0751a694f5c5565335f5d0a270c94af7269f53ac608ddc7e66c8c3e70e75c3b1",
+      "contentType": "image/jpeg"
+    },
+    "images/content/aiq0MqlQnVZVENrK_experience_result.webp": {
+      "bytes": 279995,
+      "sha256": "c750b5f521a5a124686a216187674ab63a88a9e5a618d36101dafd8119b0423a",
+      "contentType": "image/webp"
+    },
+    "images/content/air0fqlQnVZVEOYX_picnic5_result.webp": {
+      "bytes": 286896,
+      "sha256": "55602b9c36ee528a5427012460bbe43c00e8136b834748361793f43667746cb4",
+      "contentType": "image/webp"
+    },
+    "images/content/aiu8IalQnVZVEQ9V_vasetto_result.webp": {
+      "bytes": 113720,
+      "sha256": "253874263616e21f5406bc0963db54a9e5e93ad7cd2db456d81965b1ba22fdc5",
+      "contentType": "image/webp"
+    },
+    "images/content/aiu8IqlQnVZVEQ9X_fiore_result.webp": {
+      "bytes": 118878,
+      "sha256": "598258ea7495c139d97b18301c2135b9156710997fa797ff089c1644c68d7301",
+      "contentType": "image/webp"
+    },
+    "images/content/aivBdalQnVZVERGJ_arance_result.webp": {
+      "bytes": 93311,
+      "sha256": "5a0cf111171b44d1a46e949672b9ba06261bf37e71eda9b16fc9332589ea1c52",
+      "contentType": "image/webp"
+    },
+    "images/content/aivGNKlQnVZVERR7_chisiamo_result.webp": {
+      "bytes": 246270,
+      "sha256": "3da7ced89abdbc9a0addee1f9ff72401743a9c9fc5de6777700de46acf04c917",
+      "contentType": "image/webp"
+    },
+    "images/content/aivXv6lQnVZVER1t_fondo_result.webp": {
+      "bytes": 17249,
+      "sha256": "b762e6e9ec56fc5c50cffa5ba02e5043340bb97f1ed68e47d29fbf2bc635f80c",
+      "contentType": "image/webp"
+    },
+    "images/content/aivdLKlQnVZVER_r_sebastiano_result.webp": {
+      "bytes": 894834,
+      "sha256": "e26b4544e8b0c82a5284f2cdfe488307c3a22cafb2100b1ab9f160a94b737a47",
+      "contentType": "image/webp"
+    },
+    "images/content/aivfU6lQnVZVESDc_barattolisalati2_result.webp": {
+      "bytes": 340944,
+      "sha256": "5140845a7d8f5c772c2068042151bc760351aa31ce1548337107656b944376c8",
+      "contentType": "image/webp"
+    },
+    "images/content/aiwEEalQnVZVESdk_limoni_result.webp": {
+      "bytes": 179647,
+      "sha256": "412091131f04eb13fe86b2fa13a55c06139244a675e0bece542eae0064738d13",
+      "contentType": "image/webp"
+    },
+    "images/content/aj06E1bRV8_Qf4Ys_Frame90_result.webp": {
+      "bytes": 184783,
+      "sha256": "a8cc000fe5cd73787c1b81f3c61804ac9250aaef4ed660e162ae9e741f811ed2",
+      "contentType": "image/webp"
+    },
+    "images/content/aj06EVbRV8_Qf4Yp_Frame86_result.webp": {
+      "bytes": 160981,
+      "sha256": "359e8a1e62906ac300ac27bea70e65e8f4da4264c8cbd8b46dd480b5f39366a3",
+      "contentType": "image/webp"
+    },
+    "images/content/aj06EVbRV8_Qf4Yq_Frame87_result.webp": {
+      "bytes": 155162,
+      "sha256": "ab33493253a29188aa3db8963aa525836de64b46e5c68c794852708546036191",
+      "contentType": "image/webp"
+    },
+    "images/content/aj06ElbRV8_Qf4Yr_Frame88_result.webp": {
+      "bytes": 136823,
+      "sha256": "2293e845e32ceed2b111647f53986d55c8278ed56ba5b23f12613611fac7b5de",
+      "contentType": "image/webp"
+    },
+    "images/content/aj0umFbRV8_Qf4LH_aiRHEgeQX7-eW8K6_prestorosso_result.avif": {
+      "bytes": 57314,
+      "sha256": "94c01613508ce84261f3dfb9abaaed97d497089c686cee5a1cafe82ccc0f09a4",
+      "contentType": "image/avif"
+    },
+    "images/content/aj0vFVbRV8_Qf4MP_aiRHEgeQX7-eW8K6_prestorosso_result.avif": {
+      "bytes": 52528,
+      "sha256": "ef3a4dbff670a1373f9a59c1d817be4564848fc3e0b463792be7b6c6d0753e39",
+      "contentType": "image/avif"
+    },
+    "images/content/ajEkDo1P9HI4UkEk_Frame61_result.webp": {
+      "bytes": 281500,
+      "sha256": "652990e868e0c50c1a28ef4662c1930eb3188fd323cf4f7af24327cd7d2785a4",
+      "contentType": "image/webp"
+    },
+    "images/content/ajEl5Y1P9HI4UkHB_marmellatemix_result.webp": {
+      "bytes": 442534,
+      "sha256": "ace5f9a81545376bb61d348301cb78f972f92faa2530c89db2144dfad09eb486",
+      "contentType": "image/webp"
+    },
+    "images/content/ajFUqI1P9HI4UkyF_gelsinerioutdoor_result.webp": {
+      "bytes": 328042,
+      "sha256": "c1755b19012a7d2b73a98915f9eb1b20afc391ce7792ba50739560ac4e919c89",
+      "contentType": "image/webp"
+    },
+    "images/content/ajFeBY1P9HI4Uk7c_fregole_result.webp": {
+      "bytes": 309150,
+      "sha256": "aa35652efbfc697edcd275c943b920bbe8e8a6708f5b8742bd45c286eaa44f6f",
+      "contentType": "image/webp"
+    },
+    "images/content/ajFfs41P9HI4Uk-6_fragola_result.webp": {
+      "bytes": 74264,
+      "sha256": "84bb4971ee20caecceaf2ddfe902a882145e99e87923279a0c75c8e34330c270",
+      "contentType": "image/webp"
+    },
+    "images/content/ajFk9o1P9HI4UlD1_pera.jpg": {
+      "bytes": 339251,
+      "sha256": "a6c887b54f78126753d91baa9536711fa10cd6c2df052a6979b1207d8f3c682a",
+      "contentType": "image/jpeg"
+    },
+    "images/content/ajFmOY1P9HI4UlFg_pera_result.webp": {
+      "bytes": 113478,
+      "sha256": "489a6959e56389f6e510fec6ce0dd466b332c2142d918995a45f25c2556d2841",
+      "contentType": "image/webp"
+    },
+    "images/content/ajP8T41P9HI4UsPC_Frame68_result.webp": {
+      "bytes": 232294,
+      "sha256": "b2298734956f1edf4b8df777b7e69c7e80e602d884b50bb20c24b23aab2753b2",
+      "contentType": "image/webp"
+    },
+    "images/content/ajQIBo1P9HI4UseH_Frame69_result.webp": {
+      "bytes": 82596,
+      "sha256": "5fec3fd5bbdc96c2813caa295b04840dba8aff9c8700c1e4dadd0d0503773f43",
+      "contentType": "image/webp"
+    },
+    "images/content/ajQLq41P9HI4Ush6_Frame70_result.webp": {
+      "bytes": 373900,
+      "sha256": "e73458cf38039f01170fa1de4cc65e20b39782696f6cb49e3b43c260671eab16",
+      "contentType": "image/webp"
+    },
+    "images/content/ajQS0Y1P9HI4Uspw_Frame71_result.webp": {
+      "bytes": 223654,
+      "sha256": "5708d83907a44c08ab9fe09d8c66200e19e44b998b0e3b2d68fb377dd75fa581",
+      "contentType": "image/webp"
+    },
+    "images/content/ajQV9Y1P9HI4Ustm_Frame72_result.webp": {
+      "bytes": 111536,
+      "sha256": "6d70890a21bd73928eda2d57f6344685c34ee5b4d153d4a98b1b4b5f8a77d1e9",
+      "contentType": "image/webp"
+    },
+    "images/content/ajUFiY1P9HI4Ut66_Frame73_result.webp": {
+      "bytes": 129684,
+      "sha256": "fa9fd3e6a2b2f7666b7afd6ac31038c57fec53406e8ab5e274f75f1a1888baa9",
+      "contentType": "image/webp"
+    },
+    "images/content/ajUFio1P9HI4Ut67_Frame76_result.webp": {
+      "bytes": 121684,
+      "sha256": "1315fc49fd4543748b81943923911af6099c71981b133a6161bad03603c90ca5",
+      "contentType": "image/webp"
+    },
+    "images/content/ajUlb41P9HI4Uunk_cipolla_result.webp": {
+      "bytes": 149346,
+      "sha256": "b2bf0f418d725402044f3202153d6a87ddfede1783b43f84bde823999012f9a5",
+      "contentType": "image/webp"
+    },
+    "images/content/ajUoYI1P9HI4Uupo_cipollainagrodolce_result.webp": {
+      "bytes": 113268,
+      "sha256": "f653f4354d11a62d47496b9dcfca0c6113005fdf3955aa9263aa201fb4feb234",
+      "contentType": "image/webp"
+    },
+    "images/content/ajv3OFbRV8_Qf1CD_mennullaata_result.webp": {
+      "bytes": 403104,
+      "sha256": "ba8850d889240bdff9cadd74654eabadae7e1eec8dad32ae58a0ecd60ca97b23",
+      "contentType": "image/webp"
+    },
+    "images/content/ajv3sVbRV8_Qf1DQ_Frame85_result.webp": {
+      "bytes": 589184,
+      "sha256": "5c2d18ff776f2e8eb5ade924375ffecd2c84b6f849027b3774d689c2cfea7cad",
+      "contentType": "image/webp"
+    },
+    "images/content/ajvwJVbRV8_Qf00p_Frame82.jpg": {
+      "bytes": 398613,
+      "sha256": "0991362050e163b33a5b0e453b7671ed745a62bae17440e127876726ee7f6533",
+      "contentType": "image/jpeg"
+    },
+    "images/content/ajvwRFbRV8_Qf00x_Frame80.jpg": {
+      "bytes": 459291,
+      "sha256": "99145b85950a37347a8a6ab54ca32b72fcf43283b8bcec5d8977089a5ab0e15c",
+      "contentType": "image/jpeg"
+    },
+    "images/content/ajvweVbRV8_Qf01H_Frame84.jpg": {
+      "bytes": 167441,
+      "sha256": "216a01d8aca6a9c5dd4a4b1c999eb270ea57dd22dfdd28ce254165dbaeeb56fe",
+      "contentType": "image/jpeg"
+    },
+    "images/content/e3VqDaPbhLfXzKj5_Frame92_result.webp": {
+      "bytes": 633018,
+      "sha256": "0dd8e3de7930db934a0cfad08aa2b64a00e11c9d250f0726dd9dcb4b2b16506a",
+      "contentType": "image/webp"
+    },
+    "images/content/ffQO1FgRVMbKZGFI_gelsi_2_result.webp": {
+      "bytes": 120344,
+      "sha256": "457fb19568461cca51883ed6b7c6da47d677539d18c637ce35c69efaacc103a6",
+      "contentType": "image/webp"
+    },
+    "images/content/liKtQXWakwhAh1BC_pistacchio_result.webp": {
+      "bytes": 153486,
+      "sha256": "803e138e524d4f26feca22e5d7203d0e2961676673644ebce26fefb88d05b00b",
+      "contentType": "image/webp"
+    },
+    "images/content/lleh6MQ6zt474MMc_mandorla_result.webp": {
+      "bytes": 147680,
+      "sha256": "b615d0f2838ffb348a8662b6d4f65df65fc343dab138b7804fe170871ffe17eb",
+      "contentType": "image/webp"
+    },
+    "images/graphics/back-slider-home.svg": {
+      "bytes": 949,
+      "sha256": "284642f213b5906902a79570f1fae6307659eb94a16d485a11e3c286e51824b8",
+      "contentType": "image/svg+xml"
+    },
+    "images/graphics/circle-text-en.svg": {
+      "bytes": 8808,
+      "sha256": "3b3c11f50d506e1e6188efbb5ea93ad0b850f91d61bdcd68969fc50166d70819",
+      "contentType": "image/svg+xml"
+    }
+  }
+}
